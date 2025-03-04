@@ -5,4 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/1Zholdoshbek/30github/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/1Zholdoshbek/30github/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/1Zholdoshbek/30github/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
