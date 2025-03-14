@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/1Zholdoshbek/30github/tree/master/0001-two-sum) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/1Zholdoshbek/30github/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [3227-find-missing-and-repeated-values](https://github.com/1Zholdoshbek/30github/tree/master/3227-find-missing-and-repeated-values) |
 | [3643-zero-array-transformation-ii](https://github.com/1Zholdoshbek/30github/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/1Zholdoshbek/30github/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [3643-zero-array-transformation-ii](https://github.com/1Zholdoshbek/30github/tree/master/3643-zero-array-transformation-ii) |
 ## Prefix Sum
 |  |
